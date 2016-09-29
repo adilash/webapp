@@ -1,11 +1,27 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
-    margin-top: 75px;
+    margin-top: 60px;
+
+}
+.container
+  {
+    left: 9px;
+    margin-left: 30px;
+    padding-left: 2px;
+
 }
 
-.center {
-    text-align: center;
+.soc{
+
+  right: 50px;
+  top: 50px;
+  position: absolute;
+}
+.text {
+
+  top: 200px;
+  position: absolute;
+
 }
 
 .text-big {
@@ -16,7 +32,12 @@ body {
     font-weight: bold;
 }
 
-.img-medium {
-    height: 200px;
+
+
+
+
+#soc1{
+
+
 }
 
